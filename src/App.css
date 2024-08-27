@@ -1,0 +1,14 @@
+.hiro {
+  font-size: 2rem;
+  background-color: brown;
+  color: #fff;
+  text-align: end;
+}
+
+/* $bgcolor: red; */
+
+.about {
+  /* background-color: $bgcolor;  */
+  color: #fff;
+  padding: 2rem;
+}
